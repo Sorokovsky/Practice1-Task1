@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\progects\c\prac1\Task1\Source.c(50,9): warning C4477: 'printf' : format string '%lf' requires an argument of type 'double', but variadic argument 2 has type 'int'
+  Task1.vcxproj -> D:\progects\c\prac1\Task1\x64\Debug\Task1.exe
